@@ -1,0 +1,101 @@
+connection is on 19/01/2023 09:36:13
+id query is activated 19/01/2023 09:36:13
+id query is activated 19/01/2023 09:36:13
+connection is on 19/01/2023 09:39:55
+id query is activated 19/01/2023 09:39:55
+id query is activated 19/01/2023 09:39:55
+connection close 19/01/2023 09:39:55
+connection is on 19/01/2023 09:41:56
+id query is activated 19/01/2023 09:41:56
+order list query is activated 19/01/2023 09:41:56
+id query is activated 19/01/2023 09:41:56
+order list query is activated 19/01/2023 09:41:56
+connection close 19/01/2023 09:41:56
+connection is on 19/01/2023 11:04:16
+id query is activated 19/01/2023 11:04:16
+order list query is activated 19/01/2023 11:04:16
+id query is activated 19/01/2023 11:04:16
+order list query is activated 19/01/2023 11:04:16
+connection close 19/01/2023 11:04:16
+connection is on 19/01/2023 11:27:04
+id query is activated 19/01/2023 11:27:04
+connection is on 19/01/2023 11:28:10
+id query is activated 19/01/2023 11:28:10
+order list query is activated 19/01/2023 11:28:10
+id query is activated 19/01/2023 11:28:10
+order list query is activated 19/01/2023 11:28:10
+connection is on 19/01/2023 11:28:33
+connection is on 19/01/2023 11:29:24
+id query is activated 19/01/2023 11:29:24
+order list query is activated 19/01/2023 11:29:24
+connection is still open 19/01/2023 11:38:22
+connection is still open 19/01/2023 11:39:08
+connection is still open 19/01/2023 11:39:34
+connection is still open 19/01/2023 11:42:41
+connection is still open 19/01/2023 11:44:55
+connection is still open 19/01/2023 11:45:02
+connection is still open 19/01/2023 11:45:08
+connection is still open 19/01/2023 11:45:40
+connection is still open 19/01/2023 11:46:31
+bad connection string 19/01/2023 11:47:05
+connection is still open 19/01/2023 11:47:09
+connection is still open 19/01/2023 11:48:06
+connection is still open 19/01/2023 11:50:23
+connection is still open 19/01/2023 11:51:53
+bad connection string 19/01/2023 11:51:53
+bad connection string 19/01/2023 11:52:09
+bad connection string 19/01/2023 11:53:50
+connection is on 19/01/2023 11:54:13
+id query is activated 19/01/2023 11:54:13
+connection close 19/01/2023 11:54:13
+bad connection string 19/01/2023 11:55:40
+bad connection string 19/01/2023 11:56:03
+connection is on 19/01/2023 11:56:25
+id query is activated 19/01/2023 11:56:25
+connection close 19/01/2023 11:56:25
+connection is on 19/01/2023 11:57:19
+id query is activated 19/01/2023 11:57:19
+connection close 19/01/2023 11:57:19
+connection is on 19/01/2023 11:57:40
+id query is activated 19/01/2023 11:57:40
+order list query is activated 19/01/2023 11:57:40
+id query is activated 19/01/2023 11:57:40
+order list query is activated 19/01/2023 11:57:40
+connection close 19/01/2023 11:57:40
+connection is on 19/01/2023 11:59:29
+id query is activated 19/01/2023 11:59:29
+order list query is activated 19/01/2023 11:59:29
+connection is on 19/01/2023 11:59:36
+id query is activated 19/01/2023 11:59:36
+order list query is activated 19/01/2023 11:59:36
+connection is on 19/01/2023 11:59:54
+id query is activated 19/01/2023 11:59:54
+order list query is activated 19/01/2023 11:59:54
+connection is on 19/01/2023 12:03:20
+id query is activated 19/01/2023 12:03:20
+order list query is activated 19/01/2023 12:03:20
+id query is activated 19/01/2023 12:03:20
+order list query is activated 19/01/2023 12:03:20
+connection close 19/01/2023 12:03:20
+connection is on 19/01/2023 12:14:52
+order list query is activated 19/01/2023 12:14:52
+connection is on 19/01/2023 12:15:53
+id query is activated 19/01/2023 12:15:53
+connection is on 19/01/2023 12:18:32
+id query is activated 19/01/2023 12:18:32
+connection is on 19/01/2023 12:19:01
+id query is activated 19/01/2023 12:19:01
+connection is on 19/01/2023 12:24:32
+connection is on 19/01/2023 12:24:32
+bad connection string 19/01/2023 12:24:52
+connection is on 19/01/2023 12:25:05
+id query is activated 19/01/2023 12:25:05
+order list query is activated 19/01/2023 12:25:05
+id query is activated 19/01/2023 12:25:05
+order list query is activated 19/01/2023 12:25:05
+connection close 19/01/2023 12:25:05
+bad connection string 19/01/2023 12:27:58
+connection is on 19/01/2023 12:28:24
+connection is on 19/01/2023 12:28:24
+connection is on 19/01/2023 13:35:18
+order list query is activated 19/01/2023 13:35:18
