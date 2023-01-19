@@ -32,7 +32,6 @@ class Targil1:
     def connect(self):
         test=0
         try:
-            #self.connection = pyodbc.connect('Driver=sql server native client 11.0;Server=DESKTOP-ADIHTO9\\SQLEXPRESS;Database=targil1;Trusted_Connection=yes;')
             self.connection = pyodbc.connect(f'Driver=sql server native client 11.0;Server={self.server};Database=targil1;Trusted_Connection=yes;')
             self.writeToFile('connection is on')
             self.mycursor=self.connection.cursor()
